@@ -16,8 +16,6 @@ This project is a document-aware GenAI assistant that:
 
 ## 🚀 Demo
 
-🎥 [Demo Video – YouTube or Loom Link Here](#)
-
 🧪 [Try it in Colab →](https://colab.research.google.com/drive/1NAA4t4rikX4qGSPI6NzI25VS1yHj3gBD?usp=sharing)
 
 
